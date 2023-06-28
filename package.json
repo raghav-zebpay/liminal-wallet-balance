@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lmnl/liminaljs": "^1.7.0-dev-4",
+    "@lmnl/liminaljs": "^1.4.1",
     "dotenv": "^16.3.1"
   }
 }
